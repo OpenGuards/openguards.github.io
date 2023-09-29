@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://openguards.com/sitemap.xml
