@@ -5,6 +5,16 @@
     <link>https://openguards.com/</link>
     <description>Recent content on OpenGuards</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://openguards.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://openguards.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://openguards.com/about/</guid>
+      <description>Project OpenGuards, established in 2023 by the cybersecurity analyst Martin Kubečka, focuses on the collection, processing, and analysis of data from the IP address space of Slovakia.
+Data is gathered from various publicly available open sources, and then processed using our proprietary solution. In-depth analysis are conducted at three-month intervals, culminating in a comprehensive report that not only summarizes our findings but also offers valuable comparisons of data from different time periods.</description>
+    </item>
+    
     
     <item>
       <title>Contact Us</title>
