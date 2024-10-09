@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OpenGuards</title>
-    <link>https://openguards.com/</link>
+    <link>https://openguards.martinkubecka.sk/</link>
     <description>Recent content on OpenGuards</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://openguards.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://openguards.martinkubecka.sk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://openguards.com/about/</link>
+      <link>https://openguards.martinkubecka.sk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openguards.com/about/</guid>
+      <guid>https://openguards.martinkubecka.sk/about/</guid>
       <description>Project OpenGuards, established in 2023 by the cybersecurity analyst Martin Kubečka, focuses on the collection, processing, and analysis of data from the IP address space of Slovakia.
 Data is gathered from various publicly available open sources, and then processed using our proprietary solution. In-depth analysis are conducted at three-month intervals, culminating in a comprehensive report that not only summarizes our findings but also offers valuable comparisons of data from different time periods.</description>
     </item>
@@ -18,13 +18,13 @@ Data is gathered from various publicly available open sources, and then processe
     
     <item>
       <title>Contact Us</title>
-      <link>https://openguards.com/contact/</link>
+      <link>https://openguards.martinkubecka.sk/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://openguards.com/contact/</guid>
+      <guid>https://openguards.martinkubecka.sk/contact/</guid>
       <description>We appreciate your interest in connecting with us.
 Do not hesitate to reach out to us at openguards [at] proton.me
- We take your privacy and security seriously. For those who prefer secure and encrypted communication, you can contact us using PGP encryption.
+We take your privacy and security seriously. For those who prefer secure and encrypted communication, you can contact us using PGP encryption.
 Our PGP public key is available for download here.</description>
     </item>
     
